@@ -6,3 +6,4 @@
 
 	git init	- Initilizes a GIT repository,but doesn't commit what was already there.
 	git status	- Shows which files that have changed since the last commit. It doesn't take any arguments.
+	git add		- Adds files to the staging area
