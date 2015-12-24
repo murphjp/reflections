@@ -1,0 +1,8 @@
+1. Git Commands(updates)
+	git diff 	- Compare two commits, printing each line that is present in one commit but not the other. It takes two arguments - the two commit ids to compare.
+	git clone 	- Make a copy of an entire Git repository, including the history, onto your own computer. It takes one argument - the url of the repository to copy. 
+	git checkout 	- Temporarily reset all files in a directory to their state at the time of a specific commit. It takes one argument - the commit ID to restore. 
+	git log 	- Show the commits made in this repository, starting with the most recent. It doesn't take any arguments.
+
+	git init	- Initilizes a GIT repository,but doesn't commit what was already there.
+	git status	- Shows which files that have changed since the last commit. It doesn't take any arguments.

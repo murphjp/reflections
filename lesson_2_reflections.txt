@@ -1,0 +1,2 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+It generates the .git directory. This creates a blank HEAD node that is where all future commits will be attached to.

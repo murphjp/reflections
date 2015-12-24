@@ -1,0 +1,11 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It allowed us to quickly identify where the differences between the two files were. This allowed us to quickly find the changes without having to tediously search each line of code to find the problem.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It allows one to see how teh file was developed. So if your making a similar class you can get it at an earlier version when it was a more generic class. It also will help to debug, or allow one to completly change the direction of the application easily
+
+3.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+They serve different purposes. Multiple file savings alows one to go back to a previous version where all those files worked togeather. Google docs on the other hand is a group of unrelated documents so each item doesn't corilaqte to one another.
+
+4.Now that you have your workspace set up, what do you want to try using Git for?
+I want to be able to setup a repository so I will be able to start using GIT for my home projects.
