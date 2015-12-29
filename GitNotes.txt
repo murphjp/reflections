@@ -1,0 +1,16 @@
+  git diff 	- Compare two commits, printing each line that is present in one commit but not the other. It takes two arguments - the two commit ids to compare.
+	git clone 	- Make a copy of an entire Git repository, including the history, onto your own computer. It takes one argument - the url of the repository to copy. 
+	git checkout 	- Temporarily reset all files in a directory to their state at the time of a specific commit. It takes one argument - the commit ID to restore. 
+	git log 	- Show the commits made in this repository, starting with the most recent. It doesn't take any arguments.
+	git init	- Initilizes a GIT repository,but doesn't commit what was already there.
+	git status	- Shows which files that have changed since the last commit. It doesn't take any arguments.
+	git add		- Adds files to the staging area
+	git commit	- Commits the staging area to the repository, will include a comment in here
+	git diff 	- With no paramaters shows the difference between the staging area and the working copy
+	git diff --staged - Show the difference between the staging area and the last check in copy
+	git reset --hard -Discards any changes in the working directory or staging area, cannot be undone.
+	
+	git remote -- lists the branches from remote repository
+	git remote add origin https://github.com/murphjp/reflections.git -- Adds the remote origin with its remote location
+  git push origin master --pushing to the repository -> to the origin branch from the master branch
+  git pull origin master --pulling from the repository -> from the origin branch to the master branch
