@@ -4,3 +4,9 @@ It generates the .git directory. This creates a blank HEAD node that is where al
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 The Staging area allow sus to signify what we would like to commit, it will allow us to add a commit with multiple files inside of it. if we used teh working diectory we would be adding all of the files so that wouldn't work either.
 
+3.How can you use the staging area to make sure you have one commit per logical change?
+If you worked on different files that had multiple fixes you can individually add them to the staging area. This will allow you to control what files are commited.
+
+4.How do the diagrams help you visualize the branch structure?
+It easily shows where the changes were made and where the differences occur
+
